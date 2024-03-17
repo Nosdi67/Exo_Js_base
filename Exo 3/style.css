@@ -1,0 +1,27 @@
+.boxBlock{
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    margin-right: 700px;
+    
+
+    
+    
+}
+
+.box{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    transition:  1s ;
+}
